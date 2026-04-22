@@ -59,7 +59,7 @@ public class Conditions {
     }      
 }/* */ 
     
-import java.util.*;
+/*import java.util.*;
 public class Conditions {
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
@@ -71,4 +71,5 @@ public class Conditions {
             System.out.println("Odd");
         }
     }
-}
+}*/
+
